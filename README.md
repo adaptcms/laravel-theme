@@ -1,3 +1,9 @@
+## Fork of teepluss/laravel-theme
+
+See: [Official Repo](https://packagist.org/packages/teepluss/theme)
+
+This is a fixed version which supports Laravel 5.4.x
+
 ## Theme Management for Laravel
 
 ### For Laravel 4, please use the [v1.x branch](https://github.com/teepluss/laravel-theme/tree/v1.x)!
