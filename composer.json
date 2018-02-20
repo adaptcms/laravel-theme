@@ -33,5 +33,15 @@
             "src/helpers.php"
         ]
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Teepluss\\Theme\\ThemeServiceProvider"
+            ],
+            "aliases": {
+                "Theme": "Teepluss\\Theme\\Facades\\Theme"
+            }
+        }
+    }
 }
