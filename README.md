@@ -6,7 +6,7 @@
 
 See: [Official Repo](https://packagist.org/packages/teepluss/theme)
 
-This is a fixed version which supports Laravel 5.4.x
+This is a fixed version which supports Laravel 5.6.x
 
 ## Theme Management for Laravel
 
